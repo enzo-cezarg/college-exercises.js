@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "video1",
+  "name": "poo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bycontract": "^2.0.11",
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.8.4"
   }
 }
