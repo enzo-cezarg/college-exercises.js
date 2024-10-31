@@ -65,7 +65,7 @@ class Baralho {
 
 let x = new Baralho();
 x.toString();
-console.log('\n\n')
+console.log('\n\n');
 
 x.embaralharBaralho();
 x.toString();
